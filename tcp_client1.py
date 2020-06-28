@@ -1,4 +1,3 @@
-
 from socket import *
 
 # 创建tcp套接字
