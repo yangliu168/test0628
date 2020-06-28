@@ -1,7 +1,3 @@
-"""
-单一tcp客户端循环发送内容
-重点代码
-"""
 
 from socket import *
 
