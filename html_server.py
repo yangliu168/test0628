@@ -1,3 +1,4 @@
+'''666'''
 from socket import *
 
 s = socket()
